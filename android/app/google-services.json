@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528852790709",
+    "firebase_url": "https://voubedelivery-default-rtdb.firebaseio.com",
+    "project_id": "voubedelivery",
+    "storage_bucket": "voubedelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528852790709:android:105a7bce116d9875bc3dfc",
+        "android_client_info": {
+          "package_name": "com.qbanca.voube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528852790709-0qmfhfrn4khod8d1lhhd7mctpo2q7sq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw8XY1HskZFEfmMU08KE8Jv_JK_WQNYUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528852790709-0qmfhfrn4khod8d1lhhd7mctpo2q7sq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528852790709-varnlr10svsaeqocop42n634aoce9hd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voube.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
