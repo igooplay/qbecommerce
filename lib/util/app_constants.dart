@@ -3,7 +3,7 @@ import 'package:sixam_mart/data/model/response/language_model.dart';
 import 'package:sixam_mart/util/images.dart';
 
 class AppConstants {
-  static const String APP_NAME = 'Qbanca Ecommerce';
+  static const String APP_NAME = 'Qbanca Shop';
   static const double APP_VERSION = 1.6;
 
   static const String BASE_URL = 'https://site.qbanca.com.br';
