@@ -608,7 +608,7 @@
   "maximum_delivery_time_can_not_be_smaller_then_minimum_delivery_time": "O tempo máximo de entrega não pode ser menor que o tempo mínimo de entrega",
   "not_available_module": "Módulo não disponível",
   "delivery_time_type": "Tempo de entrega em",
-  "your_order_is": "Seu pedido foi",
+  "your_order_is": "Seu pedido está",
   "you_do_not_have_enough_point_to_exchange": "Você não tem pontos suficientes para trocar",
   "minute": "Minutos",
   "hours": "Horas",
